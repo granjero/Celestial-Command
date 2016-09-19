@@ -1,16 +1,16 @@
 
-#0# Start server
-#1# Join multiplayer
-#2# Options
-#3# Developers
-#4# Exit
-#5# Continue
-#6# Pause
-#7# Options
-#8# Save
-#9# Exit
-#10# Respawn
-#11# EARLY ACCESS
+Iniciar Servidor #0# Start server
+Ingresar Multijugador #1# Join multiplayer
+Opciones #2# Options
+Desarrolladores #3# Developers
+Salir #4# Exit
+Continuar #5# Continue
+Pausa #6# Pause
+Opciones #7# Options
+Guardar #8# Save
+Salir #9# Exit
+Reiniciar #10# Respawn
+ACCESO ANTICIPADO #11# EARLY ACCESS
 #12# The game is not ready yet but it is in very active development  Visit the development blog in Steam Community Hub to get more information
 #13# News
 #14# Discussions
